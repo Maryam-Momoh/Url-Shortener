@@ -8,7 +8,7 @@
         <form action="">
             <div class="Url-wrapper ">
                 <input type="email" class="form-control" id="email" placeholder="Paste URL here...." required>
-                <button>Trim URL<img src="/magic wand.png"> </button>
+                <button>Trim URL<img src="/magicwand.png"> </button>
                 
             </div>
         </form>
