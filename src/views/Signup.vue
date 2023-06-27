@@ -10,24 +10,23 @@
             <button><img src="/Path.png" alt="google logo">Apple</button>
         </section>
         <section class="or-section">
-            <img src="/Vector 8.png" width="100" alt="">
+            <!-- <img src="/Vector 8.png" width="100" alt=""> -->
             <p>or</p>
-            <img src="/Vector 7.png" width="100" alt="">
+            <!-- <img src="/Vector 7.png" width="100" alt=""> -->
         </section>
 
         <form action="">
             <div class="username_wrapper ">
-                <!-- <label class="form-label"></label> -->
+               
                 <input type="email" class="form-control" placeholder="Username" required>
             </div>
 
             <div class="email__wrapper">
-                <!-- <label  class="form-label"></label> -->
+                
                 <input type="email" class="form-control" placeholder="Email">
             </div>
 
             <div class="password__wrapper">
-                <!-- <label  class="form-label"></label> -->
                 <input type="password" class="form-control" placeholder="Password">
             </div>
 
