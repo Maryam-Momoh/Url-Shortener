@@ -7,7 +7,7 @@ import { RouterLink } from 'vue-router';
     <section>
       <p>Optimize Your Online Experience with Our <br>
         Advanced <span>URL Shortening</span> Solution</p>
-      <img src="/Vector 3.png">
+      <img src="/circle.png">
     </section>
     <p>Personalize your shortened URLs to allign with your brand
       identity. Utilize custom slugs, <br>branded links, and domain customization options to reinforce your brand presence
@@ -18,22 +18,12 @@ import { RouterLink } from 'vue-router';
      <RouterLink to="/signup"><button>Sign up</button></RouterLink>
     <span>Learn more</span>
   </section>
-  <!-- 
   <section class="float">
-      <img src="/link-2.png" class="vector-1">
-      <img src="/Line 7.png" class="vector-2">
-      <p>Seamlessly transform your <br>
-        long URLs into <b>concise</b> and <br>
-        <b>shareable links </b>with just few clicks.
-      </p>
-  </section> -->
-
-  <section class="float">
-    <img src="/Frame 29545.png" alt="">
+    <img src="/full.png" alt="">
   </section>
 
   <section class="hologram">
-    <img src="/Group 3.png" width="1340" alt="">
+    <img src="/eclipse.png" width="1340" alt="">
   </section>
 
   <footer>

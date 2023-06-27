@@ -7,7 +7,7 @@ import { RouterLink } from 'vue-router';
         <section class="nav-section">
             <section class="logo-section">
                 <img src="/Vector.png" alt="logo">
-                <img src="/Vector 2 (1).png" alt="logo">
+                <img src="/vector2.png" alt="logo">
                 <RouterLink to="/" class="logo">
                     <p>Scissors</p>
                 </RouterLink>

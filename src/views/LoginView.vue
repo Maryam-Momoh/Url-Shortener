@@ -10,9 +10,9 @@ import { RouterLink } from 'vue-router';
             <button><img src="/Path.png" alt="google logo">Apple</button>
         </section>
         <section class="or-section">
-            <img src="/Vector 8.png" width="100" alt="">
+           
             <p>or</p>
-            <img src="/Vector 7.png" width="100" alt="">
+           
         </section>
 
         <form action="">
@@ -22,7 +22,6 @@ import { RouterLink } from 'vue-router';
             </div>
 
             <div class="password__wrapper">
-                <!-- <label  class="form-label"></label> -->
                 <input type="password" class="form-control" id="password" placeholder="Password">
             </div>
 
